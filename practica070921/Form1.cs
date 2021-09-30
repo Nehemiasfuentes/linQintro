@@ -30,7 +30,7 @@ namespace practica070921
             //Llenara las filas
             foreach (var student in selectAllData())
             {
-                dgData.Rows.Add(student.idStudent, student.firtName, student.lastName, student.age);
+                dgData.Rows.Add(student.idStudent, student.firtName, student.lastName, student.age, student.genero);
             
             }
 

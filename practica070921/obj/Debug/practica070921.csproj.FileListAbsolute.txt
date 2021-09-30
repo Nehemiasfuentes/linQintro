@@ -1,7 +1,6 @@
 C:\Users\Nehemias Fuentes\source\repos\practica070921\practica070921\bin\Debug\practica070921.exe.config
 C:\Users\Nehemias Fuentes\source\repos\practica070921\practica070921\bin\Debug\practica070921.exe
 C:\Users\Nehemias Fuentes\source\repos\practica070921\practica070921\bin\Debug\practica070921.pdb
-C:\Users\Nehemias Fuentes\source\repos\practica070921\practica070921\obj\Debug\practica070921.csproj.AssemblyReference.cache
 C:\Users\Nehemias Fuentes\source\repos\practica070921\practica070921\obj\Debug\practica070921.Form1.resources
 C:\Users\Nehemias Fuentes\source\repos\practica070921\practica070921\obj\Debug\practica070921.Properties.Resources.resources
 C:\Users\Nehemias Fuentes\source\repos\practica070921\practica070921\obj\Debug\practica070921.csproj.GenerateResource.cache

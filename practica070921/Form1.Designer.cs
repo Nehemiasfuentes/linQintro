@@ -37,9 +37,9 @@ namespace practica070921
             // dgData
             // 
             this.dgData.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgData.Location = new System.Drawing.Point(356, 99);
+            this.dgData.Location = new System.Drawing.Point(276, 99);
             this.dgData.Name = "dgData";
-            this.dgData.Size = new System.Drawing.Size(405, 198);
+            this.dgData.Size = new System.Drawing.Size(485, 221);
             this.dgData.TabIndex = 0;
             // 
             // btnfill
